@@ -89,7 +89,7 @@ The SVM model achieved [insert accuracy]% accuracy on the validation set. The mo
 ### Example Results:
 - **Accuracy**: [insert accuracy]%
 - **Confusion Matrix**:
-  ![Confusion Matrix](Screenshot 2024-08-13 104925.png)
+  ![Confusion Matrix] (Screenshot 2024-08-13 104925.png)
 
 ## Contributing
 
